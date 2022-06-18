@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/Africa_materick_background.xml" value="0.1445" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/Australia_materick_background.xml" value="0.1445" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/africa_materick_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/be12ds_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/evrasia_mateick_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_ag_north_america_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_ao_africa_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_ar_south_america_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_au_australia_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_bf_africa_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_bj_africa_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_bo_south_america_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_br_south_america_background.xml" value="0.1285" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_bw_africa_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_canada_north_america_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_china_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_dz_africa_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_fi_north_america_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_fifth_mainland_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_first_mainland_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_fourth_mainland_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_gy_south_america_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_is_north_america_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_japan_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_kg_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_kr_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_russia_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_second_mainland_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_sixth_mainland_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_third_mainland_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/drawable/ic_us_north_america_background.xml" value="0.148" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/layout/activity_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/layout/iem_country.xml" value="0.7136627906976745" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/layout/item_country.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/layout/item_countrys.xml" value="0.20416666666666666" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/layout/item_mainland.xml" value="0.20416666666666666" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/africa_materick.xml" value="0.2115" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/africa_materick_round.xml" value="0.2115" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/evrasia_mateick.xml" value="0.2115" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/evrasia_mateick_round.xml" value="0.1285" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_ag_north_america.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_ar_south_america.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_au_australia.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_bf_africa.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_bj_africa.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_bo_south_america.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_br_south_america.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_br_south_america_round.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_bw_africa.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_canada_north_america.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_china.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_dz_africa.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_fi_north_america.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_fifth_mainland.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_first_mainland.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_fourth_mainland.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_gy_south_america.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_is_north_america.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_japan.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_kg.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_kr.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1255" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_russia.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_russia_round.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_second_mainland.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_second_mainland_round.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_sixth_mainland.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_third_mainland.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_third_mainland_round.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_us_north_america.xml" value="0.1" />
+        <entry key="..\:/java/AnarbekUuluNursultan34/app/src/main/res/mipmap-anydpi-v26/ic_us_north_america_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
